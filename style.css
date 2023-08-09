@@ -603,7 +603,7 @@ select{
     flex-direction: column;
     justify-content: center;
     padding: 30px;
-    transition: 0.5s;
+    transition: 1.8s;
 }
 .card:hover .card-body{
     right: 0;
