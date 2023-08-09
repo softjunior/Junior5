@@ -620,7 +620,7 @@ select{
     font-weight: 500;
 }
 
-hr{
+.card hr{
     margin: 25px;
     width: 80%;
 }
