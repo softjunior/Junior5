@@ -105,6 +105,7 @@ p{
 
 .col-3 img{
     width: 100%;
+    border-radius: 15px;
 }
 
 .container h2{
@@ -124,6 +125,7 @@ p{
 
 .col-4 img{
     width: 100%;
+    border-radius:15px;
 }
 
 
@@ -542,7 +544,6 @@ select{
         width: 60px;
         height: 60px;
         margin-right: 10px;
-        
     }
     .socials{
         display: flex;
