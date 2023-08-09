@@ -168,7 +168,7 @@ p{
 }
 .testimonial .col-3:hover{
     transform: translateY(-10px);
-    background: rgb(77, 9, 9);
+    background: rgba(77, 9, 9, 0.558);
     color: white;
 }
 
@@ -185,14 +185,6 @@ p{
     color: rgb(77, 9, 9);
 }
 
-.testimonial .fa.fa-quote-left:hover{
-    font-size: 30px;
-    color: rgb(252, 252, 252);
-}
-.testimonial .fa.fa-star:hover{
-    font-size: 30px;
-    color: rgb(252, 252, 252);
-}
 .testimonial .col-3 h3{
     font-size: 18px;
     color: #555;
